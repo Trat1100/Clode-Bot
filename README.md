@@ -1,8 +1,8 @@
 <h1 align="center">
   Clode Bot
   <br>
-  <a href="https://ployar.ga/discord">
-    <img border="0" alt="Discord" src="https://cdn.discordapp.com/avatars/876379403813289984/798e720963c3af66235c23bf2f2b4026.gif?size=1024">
+  <a href="https://discord.gg/C2XfGANnPA">
+    <img border="0" alt="Discord" src="https://cdn.discordapp.com/attachments/925757262558027806/925814969419829258/eda35da56cffafae7736014aa724c2b9.png">
   </a>
   <a href="https://www.javascript.com/">
     <img border="0" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
